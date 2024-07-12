@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://joav.github.io/sitemap_principal.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://joav.github.io/desarrollando-al-desarrollador/sitemap.xml</loc>
+  </sitemap>
+</sitemapindex>
