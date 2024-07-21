@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://joav.github.io/sitemap.xml
